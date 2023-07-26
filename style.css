@@ -61,3 +61,150 @@ body{
 .img5:hover{
     scale: 1.10;
 }
+
+@media (min-width:630px) and (max-width:950px) {
+    body{
+        background-size: cover;
+    }
+
+    .img1{
+        scale: 1.55;
+        margin-left: 200px;
+    }
+    .img2{
+        scale: 1.55;
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+    .img3{
+        scale: 1.55;
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+    .img4{
+        scale: 1.55;
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+    .img5{
+        scale: 1.55;
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+
+    .img1:hover{
+        scale:1.60;
+    }
+    .img2:hover{
+        scale:1.60;
+    }
+    .img3:hover{
+        scale:1.60;
+    }
+    .img4:hover{
+        scale:1.60;
+    }
+    .img5:hover{
+        scale:1.60;
+    }
+}
+
+@media (min-width:950px) and (max-width:1229px) {
+    body{
+        background-size: cover;
+    }
+    .img1{
+        scale: 1.55;
+        margin-left: 200px;
+    }
+    .img2{
+        scale: 1.55;
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+    .img3{
+        scale: 1.55;
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+    .img4{
+        scale: 1.55;
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+    .img5{
+        scale: 1.55;
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+
+    .img1:hover{
+        scale:1.60;
+    }
+    .img2:hover{
+        scale:1.60;
+    }
+    .img3:hover{
+        scale:1.60;
+    }
+    .img4:hover{
+        scale:1.60;
+    }
+    .img5:hover{
+        scale:1.60;
+    }
+}
+
+@media (min-width:1230px) {
+    body{
+        background-size: cover;
+    }
+    
+    .img1{
+      scale: 1.70;
+      margin-top: -100px;
+      margin-left: 400px;
+    }
+
+    .img2{
+        scale: 1.70;
+        margin-top: 250px;
+        margin-left: 400px;
+      }
+
+      .img3{
+        scale: 1.70;
+        margin-top: 250px;
+        margin-left: 400px;
+      }
+
+      .img4{
+        scale: 1.70;
+        margin-top: 250px;
+        margin-left: 400px;
+      }
+
+      .img5{
+        scale: 1.70;
+        margin-top: 250px;
+        margin-left: 400px;
+      }
+
+      .img1:hover{
+        scale: 1.75;
+      }
+      .img2:hover{
+        scale: 1.75;
+      }
+      .img3:hover{
+        scale: 1.75;
+      }
+      .img4:hover{
+        scale: 1.75;
+      }
+      .img5:hover{
+        scale: 1.75;
+      }
+
+
+}
