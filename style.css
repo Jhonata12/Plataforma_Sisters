@@ -41,3 +41,23 @@ body{
     margin-left: -100px;
 
 }
+
+.img1:hover{
+    scale: 1.10;
+}
+
+.img2:hover{
+    scale: 1.10;
+}
+
+.img3:hover{
+    scale: 1.10;
+}
+
+.img4:hover{
+    scale: 1.10;
+}
+
+.img5:hover{
+    scale: 1.10;
+}
