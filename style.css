@@ -1,5 +1,5 @@
 body{
-    background-image: url(BK.png);
+    background-image: url(BK1.png);
     background-color: #7b50ac;
     background-repeat: no-repeat;
     background-size: contain;
@@ -14,30 +14,30 @@ body{
 .img1{
  margin-top: -220px;
  margin-left: -100px;
- box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+
 }
 
 .img2{
     margin-top: 50px;
     margin-left: -100px;
-    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+
 }
 
 .img3{
     margin-top: 50px;
     margin-left: -100px;
-    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+
 }
 
 .img4{
     margin-top: 50px;
     margin-left: -100px;
-    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+
 }
 
 .img5{
     margin-top: 50px;
     margin-bottom: -200px;
     margin-left: -100px;
-    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+
 }
